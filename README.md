@@ -1,1 +1,1 @@
-# sql-games
+# sql-practice
