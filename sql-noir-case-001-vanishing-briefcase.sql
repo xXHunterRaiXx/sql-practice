@@ -1,4 +1,4 @@
 -- Record your SQL detective process here!  Write down: 
-  -- The SQL queries you ran
-  -- Any notes or insights as SQL comments
-  -- Your final conclusion: who did it?
+  -- 1. The SQL queries you ran
+  -- 2. Any notes or insights as SQL comments
+  -- 3. Your final conclusion: who did it?
