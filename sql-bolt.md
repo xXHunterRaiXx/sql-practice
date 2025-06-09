@@ -1,5 +1,5 @@
 # Instructions 
-1. Complete Lessons 1–4 and the Review on SQLBolt.
+1. Complete Lessons 1–4 and the Review on [SQLBolt](https://sqlbolt.com/).
 
 2. In each lesson, answer all the questions. You'll know a question is complete when you see a green check mark ✅ next to it.
 
